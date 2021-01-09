@@ -1,4 +1,3 @@
-import { NumberLiteralType } from "typescript";
 import { formatPrice } from "./helpers";
 
 type Props = {
